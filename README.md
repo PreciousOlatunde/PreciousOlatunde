@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PreciousOlatunde
 - 😄 My pronouns are She/Her
 - 👀 I’m currently a Computer Science Major at the University of Calgary
-- 📫 You can always reach my by email at preciousbolatunde@gmail.com
+- 📫 You can always reach me by email at preciousbolatunde@gmail.com
 - ⚡ Fun fact: I'm obsessed with all things pink and do almost all my coding in Visual Studio 
 
 <!---
